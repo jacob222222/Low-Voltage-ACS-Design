@@ -87,7 +87,7 @@ Logged commissioning report and compliance verification checklist
 
 (coming soon...)
 
-📁 Project Files
+📁 Project Files #files are not included at the moment. They will be pushed later. This project only show what I, Jacob did.
 
 layout/ – Floor plan and device layout
 
@@ -107,4 +107,4 @@ Creating structured access permissions
 
 Providing field-ready documentation and compliance reporting
 
-Created by Jacob Dukuly | Cybersecurity
+Created by Jacob Dukuly 
